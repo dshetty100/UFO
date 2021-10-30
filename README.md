@@ -17,7 +17,7 @@ For example, one could filter the data by filling the "Enter Date" field with "1
 ## Summary
 While the webpage is able to filter the data according to user defined criteria quite well. These are some drawbacks 
 #### Drawbacks
-1. the filter needs to be manually cleared for every new search.
+1. The filter needs to be manually cleared for every new search.
 2. Also, the filter takes search criteria only in lower cases. 
 #### Further Development:
 It would be advantageous to develop the webpage further by including the followings:
