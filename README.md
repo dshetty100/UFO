@@ -8,6 +8,7 @@ For this project, a JavaScript (app.js) was written to builds the HTML table and
 
 ## Results
 The user can open the HTML file (index.html) that displays all the data in a table and filter the data based on various criteria.
+
 For example, one could filter the data by filling the "Enter Date" field with "1/1/2010", "Enter a Country" field with "us", and "Enter a Shape" field with "sphere". This would display all the data related to sightings on 1/1/2010, in the US and that corresponding to spherical shape UFO as shown below
 
 ![Figure1](/Images/UFO_filter_data.png)
