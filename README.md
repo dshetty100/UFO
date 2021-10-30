@@ -10,7 +10,7 @@ In this project, JavaScript (app.js) builds the HTML table and fills it with dat
 The webpage can display UFO sightings by allowing users to filter for multiple criteria at the same time.
 For example, one could filter the data by entering the date field as "1/1/2010", country field as "us", and the shape field as "sphere". This would display as shown below all the data related to UFO sightings on 1/1/2010, in the US and one that is shperical in shape.
 
-![Figure1](/Images/UFO_filter_data.PNG)
+![Figure1](/Images/UFO_filter_data.png)
 
 
 
